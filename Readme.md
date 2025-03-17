@@ -25,10 +25,10 @@ Apply-mate is a powerful MERN-based web app that streamlines job tracking for ap
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
 
-![Screenshot 1](https://res.cloudinary.com/dewu8pifs/image/upload/v1705772699/Screenshot_35_tdlw9v.png)
+![Screenshot 1](https://github.com/archief2910/Apply-mate/blob/main/Screenshot%202025-03-17%20184605.png)
 
 
-![Screenshot 2](https://res.cloudinary.com/dewu8pifs/image/upload/v1705772685/Screenshot_37_f6zziu.png)
+![Screenshot 2](https://github.com/archief2910/Apply-mate/blob/main/Screenshot%202025-03-17%20184621.png)
 
 
 </div>
