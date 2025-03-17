@@ -76,3 +76,6 @@ Apply-mate is a powerful MERN-based web app that streamlines job tracking for ap
   2. Add and manage your job applications.
   3. Use the provided features for better organization and tracking.
 
+## Future-prospects
+
+   I aim to deploy it on AWS EC2 or Oracle VM with Nginx, ensuring high performance, security, and autoscaling.
