@@ -1,8 +1,8 @@
-# JobTrackr
+# Apply-mate
 
 ## Overview
 
-JobTrackr is a web application designed to help users keep track of the jobs they have applied to. The application provides features such as pagination, sorting, searching, and filters based on work type and job status. It is built using the MERN stack (MongoDB, Express.js, React, and Node.js) and employs JWT for authentication and cookies for session management.
+JobTrackr is a powerful MERN-based web app that streamlines job tracking for applicants with intuitive search, sorting, and filtering. It offers seamless pagination and real-time job status updates, ensuring users stay organized. Secure authentication via JWT and cookie-based session management enhance user experience.
 
 ## Features
 
@@ -47,8 +47,8 @@ Mobile View of Category Section
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sampriti27/JobTrackr.git
-   cd JobTrackr
+   git clone https://github.com/archief2910/Apply-mate.git
+   cd Apply-mate
    
 2. Install dependencies: 
    ```bash 
