@@ -2,7 +2,7 @@
 
 ## Overview
 
-JobTrackr is a powerful MERN-based web app that streamlines job tracking for applicants with intuitive search, sorting, and filtering. It offers seamless pagination and real-time job status updates, ensuring users stay organized. Secure authentication via JWT and cookie-based session management enhance user experience.
+Apply-mate is a powerful MERN-based web app that streamlines job tracking for applicants with intuitive search, sorting, and filtering. It offers seamless pagination and real-time job status updates, ensuring users stay organized. Secure authentication via JWT and cookie-based session management enhance user experience.
 
 ## Features
 
@@ -26,19 +26,10 @@ JobTrackr is a powerful MERN-based web app that streamlines job tracking for app
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
 
 ![Screenshot 1](https://res.cloudinary.com/dewu8pifs/image/upload/v1705772699/Screenshot_35_tdlw9v.png)
-Login Page
+
 
 ![Screenshot 2](https://res.cloudinary.com/dewu8pifs/image/upload/v1705772685/Screenshot_37_f6zziu.png)
-Dashboard
 
-![Screenshot 3](https://res.cloudinary.com/dewu8pifs/image/upload/v1705772684/Screenshot_38_ho2rid.png)
-Add Job Modal
-
-![Screenshot 4](https://res.cloudinary.com/dewu8pifs/image/upload/v1705772683/Screenshot_36_pdnee5.png)
-Category Section
-
-![Screenshot 5](https://res.cloudinary.com/dewu8pifs/image/upload/v1705772683/Screenshot_41_hv3gjz.png)
-Mobile View of Category Section
 
 </div>
 
